@@ -9,4 +9,4 @@ Here are the different questions that Mark would like to explore, which you wrot
 - In which countries should the company operate in priority?
 
 ## Your mission
-Mark therefore asked you to carry out a pre-exploratory analysis of this dataset
+Carry out a pre-exploratory analysis of this dataset
