@@ -8,5 +8,9 @@ Here are the different questions that Mark would like to explore, which you wrot
 - For each of these countries, what will be the evolution of this customer potential?
 - In which countries should the company operate in priority?
 
+World Bank data available at:
+
+https://datacatalog.worldbank.org/dataset/education-statistics
+
 ## Your mission
 Carry out a pre-exploratory analysis of this dataset
