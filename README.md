@@ -1,4 +1,4 @@
-# Analyze data from education-systems
+# Analyze data from education systems
 You are a Data Scientist in an EdTech start-up, called academy, which offers online training content for high school and university level audiences.
 Mark, your manager, has invited you to a meeting to present the company's international expansion project. He entrusts you with a first mission of exploratory analysis, to determine if the data on education from the World Bank can inform the expansion project.
 
